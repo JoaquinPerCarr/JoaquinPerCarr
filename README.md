@@ -2,7 +2,7 @@
 - 👀 I’m kind on Machine Learning, Deep Learning, Python, Java
 - 🌱 I’m currently learning a course about Agile Technologies and how to manage teams and talents in.
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me on Linkedin --> www.linkedin.com/in/joaquinperezcarrasco
 
 <!---
 JoaquinPerCarr/JoaquinPerCarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
