@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @JoaquinPerCarr (Joaquín Perez formaly)
+- 👋 Hi, I’m @JoaquinPerCarr (Joaquín Pérez formaly)
 - 👀 I’m kind on Machine Learning, Deep Learning, Python, Java
 - 🌱 I’m currently learning a course about Agile Technologies and how to manage teams and talents in.
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me on Linkedin --> www.linkedin.com/in/joaquinperezcarrasco
 
 <!---
