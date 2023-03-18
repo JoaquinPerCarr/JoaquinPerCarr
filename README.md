@@ -29,7 +29,7 @@
 
 
 
-<img src="https://cdn-icons-png.flaticon.com/512/2057/2057837.png" width="26">
+<img src="https://cdn-icons-png.flaticon.com/512/2057/2057837.png" width="26"> Location: Algeciras, Cádiz | Remote
 
 👋 Hi, I’m @JoaquinPerCarr (Joaquín Pérez Carrasco)
 
