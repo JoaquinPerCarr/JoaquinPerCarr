@@ -76,6 +76,10 @@ Angular,HTML, CSS, JS, Java(MVC, Maven, Spring), Python(Django), C90(Real Time S
 ## Future Insights
 </div>
 
+My current interests are to progress in fields related to Data Engineering, Machine Learning, Big Data, Data Scientist, Bussiness Inteligence, Deep Learning or QA.
+
+For this reasom, I'm always in constant formation, taking courses that allow me to know more about these topics.
+
 <div align="center">
 
 ## Github Stats
