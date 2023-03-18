@@ -51,9 +51,14 @@
 
 **Advanced Knowledge**
 
-<div align="left">
+<div align="center">
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="40">
+
+        <img src=" https://nutaq.com/icon-simulink/" width="40">
+
+
+       
     </div>
 </div>
 
