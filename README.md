@@ -55,6 +55,8 @@
 
 **Degree in Industrial Electronics Engineering** | UCA |  Sep 2014 - Jun 2019
 
+<div align="center">
+
 ## Tech Stack
 </div>
 
