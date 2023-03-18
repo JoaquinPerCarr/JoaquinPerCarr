@@ -39,28 +39,22 @@
 ## Career Summary
 </div>
 
-<div align="center">
+## Jobs Experience (1.3 yrs of total experience)
 
-<div align = "center">
+**Python Data Engineer**     |   Cobser Consulting   |   Feb 2023 - **Now**
+**Developer Jr.**            |      Expleo Group     |   May 2022 - Sep 2022
+**Jr. Consultant/Engineer**  | Capgemini Engineering |   Nov 2021 - Feb 2022
+**Project Technician**       | Adentech Engineering  |   May 2021 - Nov 2021
 
-<div align = "center">
+## Education
+
+**Master’s Degree in Mechatronic Engineering**   | UMA |  Nov 2019 - Jul 2021
+**Degree in Industrial Electronics Engineering** | UCA |  Sep 2014 - Jun 2019
 
 ## Tech Stack
-
 </div>
 
 **Advanced Knowledge**
-
-<div align="center">
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="40">
-
-        <img src=" https://nutaq.com/icon-simulink/" width="40">
-
-
-       
-    </div>
-</div>
 
 Matlab, Simulink, Python, Office, Teams
 
