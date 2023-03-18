@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoaquinPerCarr (Joaquín Pérez formaly)
 - 👀 I’m kind on Machine Learning, Deep Learning, Python, Java
-- 🌱 I’m currently learning a course about Agile Technologies and how to manage teams and talents in.
-- 📫 How to reach me on Linkedin --> www.linkedin.com/in/joaquinperezcarrasco
+- 💼 I’m currently working such as Python Data Engineer 
+- 🔍 How to reach me on Linkedin --> www.linkedin.com/in/joaquinperezcarrasco
 
 <!---
 JoaquinPerCarr/JoaquinPerCarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
