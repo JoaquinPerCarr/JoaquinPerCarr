@@ -41,21 +41,32 @@
 
 <div align="center">
 
+<div align = "center">
+
+<div align = "center">
+
 ## Tech Stack
 
 </div>
 
 **Advanced Knowledge**
 
+<div align="left">
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="40">
+    </div>
+</div>
+
 Matlab, Simulink, Python, Office, Teams
 
 **Intermediate Knowledge**
 
-Java, C, Git, GitHub, Agile(Jira, Confluence, BitBucket, Kanban), AutoCad.
+Java, C, SQL, Git, GitHub, Agile(Jira, Confluence, BitBucket, Kanban), SCRUM, AutoCad.
 
 **Basic Knowledge**
 
-Angular,HTML, CSS, JS, Java(MVC, Maven, Spring), Python(Django), C90(Real Time Systems), Postman, , ChatGPT 3.5, Eagle (PCB Routing)
+Angular,HTML, CSS, JS, Java(MVC, Maven, Spring), Python(Django), C90(Real Time Systems), Postman, ChatGPT 3.5, Eagle (PCB Routing)
+
 
 <div align="center">
 
