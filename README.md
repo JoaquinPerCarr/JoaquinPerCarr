@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoaquinPerCarr (Joaquín Pérez Carrasco formaly)
+- 👋 Hi, I’m @JoaquinPerCarr (Joaquín Pérez Carrasco)
 - 👀 I’m kind on Machine Learning, Deep Learning, Python, Java
 - 💼 I’m currently working such as Python Data Engineer 
 - 🔍 How to reach me on Linkedin --> www.linkedin.com/in/joaquinperezcarrasco
