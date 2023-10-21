@@ -41,7 +41,7 @@
 
 ### Jobs Experience (1.3 yrs of total experience)
 
-**Python Data Engineer**     |   Cobser Consulting   |   Feb 2023 - **Now**
+**Python Data Engineer**     |   Cobser Consulting   |   Feb 2023 - Jul 2023
 
 **Developer Jr.**            |      Expleo Group     |   May 2022 - Sep 2022
 
