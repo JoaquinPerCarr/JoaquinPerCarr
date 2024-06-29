@@ -39,7 +39,9 @@
 ## Career Summary
 </div>
 
-### Jobs Experience (1.3 yrs of total experience)
+### Jobs Experience (2 yrs of total experience)
+
+**Data Engineer**     |   NextPort.AI   |   Oct 2023 - Now
 
 **Python Data Engineer**     |   Cobser Consulting   |   Feb 2023 - Jul 2023
 
